@@ -1,0 +1,236 @@
+#background{
+    background-image: url("../assets/backgrounds/h_img.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 850px;
+}
+.center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: aliceblue;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+}
+
+#mouseclick {
+    position: absolute;
+    top: 95%;
+    left: 50%;
+}
+
+#center2{
+    text-align: center;
+} 
+
+#background2{
+    background-image: url("../assets/backgrounds/s_image.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+}
+
+#center3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: aliceblue;    
+}
+
+.center4{
+    text-align: center;
+}
+
+p#designtext{
+    width: 100%;
+    padding: 10px 0;
+    text-align: center;
+    margin-top: 10px;  
+    font-size: 15px;
+}
+
+h6{
+    font-size: 10px;
+}
+
+.card{
+    align-content: center;
+    text-align: center;
+}
+p#producttext{
+    width: 100%;
+    padding: 10px 0;
+    text-align: center;
+    margin-top: 20px;  
+    font-size: 15px;
+}
+
+p#developmenttext{
+    width: 100%;
+    padding: 10px 0;
+    text-align: center;
+    margin-top: 20px;  
+    font-size: 15px;
+}
+
+#workcard{
+    background-image: url("../assets/portfolio/work4.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    margin-top: 50px;
+}
+
+#work3{
+    background-image: url("../assets/portfolio/work3.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    margin-top: 50px;
+}
+#work2{
+    background-image: url("../assets/portfolio/work2.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    margin-top: 50px;
+}
+
+#work1{
+    background-image: url("../assets/portfolio/work1.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    margin-top: 50px;
+}
+
+#work5{
+    background-image: url("../assets/portfolio/work5.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    margin-top: 50px;
+}
+
+#work6{
+    background-image: url("../assets/portfolio/work6.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    margin-top: 50px;
+}
+
+#work7{
+    background-image: url("../assets/portfolio/work7.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    margin-top: 50px;
+}
+
+#work8{
+    background-image: url("../assets/portfolio/work8.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    margin-top: 50px;
+}
+
+#work4text{
+    color: white;
+    margin-top: 90px;
+    display: none;
+    font-size: 30px;
+
+}
+
+#work3text{
+    color: rgb(243, 162, 12);
+    margin-top: 60px;
+    display: none;
+    font-size: 30px;
+}
+
+#work2text{
+    color: wheat;
+    margin-top: 90px;
+    display: none;
+    font-size: 30px;
+}
+
+#work1text{
+    color: wheat;
+    margin-top: 90px;
+    display: none;
+    font-size: 30px;
+}
+
+#work5text{
+    color: black;
+    margin-top: 70px;
+    display: none;
+    font-size: 30px;
+}
+
+#work6text{
+    color:black;
+    margin-top: 90px;
+    display: none;
+    font-size: 30px;
+}
+
+#work7text{
+    color: wheat;
+    margin-top: 50px;
+    display: none;
+    font-size: 30px;
+}
+
+#work8text{
+    color: white;
+    margin-top: 90px;
+    display: none;
+    font-size: 30px;
+}
+
+.jumbotron{
+    padding-top: 0%;
+}
+
+form{
+    opacity: 0.5;
+    display: inline-block;
+}
+
+.center5{
+    text-align: center;
+    color: white;
+    padding-top: 70px;
+}
+
+.comment{
+    height: 200px;
+}
+
+.name{
+    align-items: right;
+}
+
+.background3{
+    background-image: url("../assets/backgrounds/c_image.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    margin-top: 50px;
+}
+
+.list-unstyled{
+    margin-top: 20px;
+}
